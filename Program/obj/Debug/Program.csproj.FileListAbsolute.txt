@@ -1,0 +1,13 @@
+C:\Users\Becky\Desktop\TritrationCal\Program\bin\Debug\Program.exe.config
+C:\Users\Becky\Desktop\TritrationCal\Program\bin\Debug\Program.exe
+C:\Users\Becky\Desktop\TritrationCal\Program\bin\Debug\Program.pdb
+C:\Users\Becky\Desktop\TritrationCal\Program\obj\Debug\Program.csprojResolveAssemblyReference.cache
+C:\Users\Becky\Desktop\TritrationCal\Program\obj\Debug\Program.Form1.resources
+C:\Users\Becky\Desktop\TritrationCal\Program\obj\Debug\Program.Properties.Resources.resources
+C:\Users\Becky\Desktop\TritrationCal\Program\obj\Debug\Program.csproj.GenerateResource.Cache
+C:\Users\Becky\Desktop\TritrationCal\Program\obj\Debug\Program.exe
+C:\Users\Becky\Desktop\TritrationCal\Program\obj\Debug\Program.pdb
+C:\Users\Becky\Desktop\TritrationCal\Program\bin\Debug\Program.exe.manifest
+C:\Users\Becky\Desktop\TritrationCal\Program\bin\Debug\Program.application
+C:\Users\Becky\Desktop\TritrationCal\Program\obj\Debug\Program.exe.manifest
+C:\Users\Becky\Desktop\TritrationCal\Program\obj\Debug\Program.application

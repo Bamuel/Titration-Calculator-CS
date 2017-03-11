@@ -1,0 +1,13 @@
+C:\Users\Becky\Desktop\TritrationCal\Program\obj\Debug\Program.Form1.resources
+C:\Users\Becky\Desktop\TritrationCal\Program\obj\Debug\Program.Properties.Resources.resources
+C:\Users\Becky\Desktop\TritrationCal\Program\obj\Debug\TritrationCal.csproj.GenerateResource.Cache
+C:\Users\Becky\Desktop\TritrationCal\Program\bin\Debug\Tritration Calculator By Samuel.exe.config
+C:\Users\Becky\Desktop\TritrationCal\Program\bin\Debug\Tritration Calculator By Samuel.exe.manifest
+C:\Users\Becky\Desktop\TritrationCal\Program\bin\Debug\Tritration Calculator By Samuel.application
+C:\Users\Becky\Desktop\TritrationCal\Program\bin\Debug\Tritration Calculator By Samuel.exe
+C:\Users\Becky\Desktop\TritrationCal\Program\bin\Debug\Tritration Calculator By Samuel.pdb
+C:\Users\Becky\Desktop\TritrationCal\Program\obj\Debug\TritrationCal.csprojResolveAssemblyReference.cache
+C:\Users\Becky\Desktop\TritrationCal\Program\obj\Debug\Tritration Calculator By Samuel.exe.manifest
+C:\Users\Becky\Desktop\TritrationCal\Program\obj\Debug\Tritration Calculator By Samuel.application
+C:\Users\Becky\Desktop\TritrationCal\Program\obj\Debug\Tritration Calculator By Samuel.exe
+C:\Users\Becky\Desktop\TritrationCal\Program\obj\Debug\Tritration Calculator By Samuel.pdb
